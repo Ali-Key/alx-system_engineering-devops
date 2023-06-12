@@ -1,0 +1,4 @@
+
+#!/in/bash
+t -name '.' | wc -l
+tail -n 1 iacta >> iacta
